@@ -8,6 +8,7 @@ Astronomy and Physics Specialist: Advanced Analytical Skills with Python and Mat
 <div>
 <img src="https://a11ybadges.com/badge?logo=python" />&nbsp
 <img src="https://a11ybadges.com/badge?logo=wolframmathematica" />&nbsp  
+<img src="https://a11ybadges.com/badge?logo=cplusplus" />&nbsp    
 <img src="https://a11ybadges.com/badge?logo=linux" />&nbsp
 <img src="https://a11ybadges.com/badge?logo=ubuntu" />&nbsp
 </div>
